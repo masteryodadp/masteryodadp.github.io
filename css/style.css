@@ -73,3 +73,23 @@ body {
     color: Red;
     text-decoration:none;
 }
+h1 {
+    text-align: center;
+    font-family: "Comic Sans MS",sans-serif;
+    color: lawngreen;
+    font-size: 400%;
+
+}
+p {
+    text-indent: 35px;
+    color: deeppink;
+    font-size: 25px;
+    margin: 15px;
+
+}
+h2 {
+    text-align: center;
+    font-family: "Comic Sans MS",sans-serif;
+    color: lawngreen;
+    font-size: 400%;
+}
