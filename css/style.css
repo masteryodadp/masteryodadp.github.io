@@ -6,7 +6,7 @@ body {
     width: 100%;
     height: 100%;
     background-image: url("../images/yoda.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 
 }
 
@@ -92,4 +92,13 @@ h2 {
     font-family: "Comic Sans MS",sans-serif;
     color: lawngreen;
     font-size: 400%;
+}
+@media all and (max-width: 380px) {
+    body {
+        font-size:1.5em;
+    }
+
+    h2 {
+        font-size:2.5em;
+    }
 }
