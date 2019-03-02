@@ -5,6 +5,7 @@ body {
     height: 3000px;
     background-image: url("../images/fontHTML&CSS.jpg");
 }
+
 .slider {
     position: relative;
     overflow: hidden;
@@ -83,4 +84,85 @@ body {
         font-size:12px;
         line-height:1 ;
     }
+}
+a.rollover {
+    background: url("../images/html code.png");
+    display: block;
+    width: 250px;
+    height: 250px;
+}
+a.rollover:hover {
+    background-position: 0 -40px;
+    width: 1366px;
+    height: 768px;
+}
+#htmlcode  {
+    float: right;
+    margin: 7px 0 7px 7px;
+}
+h1 {
+    font-size: 300%;
+    font-family: "Comic Sans MS",sans-serif;
+    text-align: center;
+    color: black;
+}
+#fortext{
+    font-size: 30px;
+    color: orangered;
+    text-indent: 35px;
+    margin: 15px;
+    text-align: right;
+    background-color: rgba(0,0,0,0.8);
+    padding-bottom: 58px;
+
+}
+a.rolloverl {
+    background: url("../images/css code.png");
+    display: block;
+    width: 250px;
+    height: 250px;
+}
+a.rolloverl:hover {
+    background-position: 0 -40px;
+    width: 1366px;
+    height: 768px;
+}
+#csscode {
+    float: left;
+    margin: 7px 7px  7px 0;
+}
+#forCSS{
+    font-size: 30px;
+    color: orangered;
+    text-indent: 35px;
+    margin: 15px;
+    text-align: left;
+    background-color: rgba(0,0,0,0.8);
+    padding-bottom: 140px;
+
+}
+a.rolloverla {
+    background: url("../images/java code.png");
+    display: block;
+    width: 250px;
+    height: 250px;
+}
+a.rolloverla:hover {
+    background-position: 0 -40px;
+    width: 1366px;
+    height: 768px;
+}
+#javacode {
+    float: right;
+    margin: 7px 0 7px 7px;
+}
+#forJAVA{
+    font-size: 30px;
+    color: orangered;
+    text-indent: 35px;
+    margin: 15px;
+    text-align: right;
+    background-color: rgba(0,0,0,0.8);
+    padding-bottom: 180px;
+
 }
