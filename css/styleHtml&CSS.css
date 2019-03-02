@@ -2,8 +2,9 @@ body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color: #fff;
-    height: 3000px;
+    height: 1500px;
     background-image: url("../images/fontHTML&CSS.jpg");
+    background-repeat: no-repeat;
 }
 
 .slider {
