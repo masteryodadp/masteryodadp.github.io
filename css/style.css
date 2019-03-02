@@ -7,6 +7,7 @@ body {
     height: 100%;
     background-image: url("../images/yoda.png");
     background-repeat: repeat;
+    background-size: cover;
 }
 .bg-img {
     background-color: rgba(0,0,0,0.6);
